@@ -57,7 +57,7 @@ Developers of the best-selling and critically acclaimed Mortal Kombat franchise,
     <img class="programming-languages" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Logo">
     <br><br>
     <footer>
-      <h5 align="center">All Images &copy; Disney</h5>
+      <h5 align="center">All Images &copy; DC Comics</h5>
     </footer>
   </body>
 </html>
